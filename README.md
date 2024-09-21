@@ -1,8 +1,8 @@
 # Running the test
 
-Copy the latest version of `retrace-record-replay` to `.`
+Clone the repo
 ```
-cp -r ../retrace-record-replay/ .
+git clone --recursive $REPO_URL
 ```
 
 Build the Docker image
