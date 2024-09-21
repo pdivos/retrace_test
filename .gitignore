@@ -134,5 +134,4 @@ stats
 *.swp
 
 
-/retrace-record-replay
 /retrace_data
