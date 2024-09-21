@@ -5,11 +5,6 @@ Copy the latest version of `retrace-record-replay` to `.`
 cp -r ../retrace-record-replay/ .
 ```
 
-Delete the .git folder
-```
-rm -rf ./retrace-record-replay/.git
-```
-
 Build the Docker image
 ```
 ./build.sh
