@@ -1,5 +1,3 @@
-# NAME: wox-py
-
 FROM python:3.10
 WORKDIR /usr/src/app
 
