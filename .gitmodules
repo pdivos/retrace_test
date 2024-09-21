@@ -1,3 +1,6 @@
 [submodule "retrace-record-replay"]
 	path = retrace-record-replay
 	url = git@github.com:retracesoftware/retrace-record-replay.git
+[submodule "retrace-record-replay-test"]
+	path = retrace-record-replay-test
+	url = git@github.com:retracesoftware/retrace-record-replay-test.git
